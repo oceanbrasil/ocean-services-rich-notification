@@ -77,7 +77,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-rich-notification:1.1.3'
+    compile 'com.github.oceanbrasil:ocean-services-rich-notification:1.1.3'
 }
 ```
 
